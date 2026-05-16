@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "accident-liability-ai"
+version = "0.1.0"
+description = "Video and statement based traffic accident liability estimation MVP"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24.0",
+  "pandas>=2.0.0",
+  "opencv-python>=4.7.0",
+  "torch>=2.0.0",
+  "torchvision>=0.15.0",
+  "scikit-learn>=1.2.0",
+  "joblib>=1.3.0",
+  "matplotlib>=3.7.0",
+  "tqdm>=4.65.0",
+  "pydantic>=2.0.0",
+  "pyyaml>=6.0.0",
+]
+
+[project.optional-dependencies]
+perception = [
+  "ultralytics>=8.0.0",
+  "norfair>=2.2.0",
+]
+llm = [
+  "groq>=0.9.0",
+]
+dev = [
+  "pytest>=7.4.0",
+  "ruff>=0.5.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

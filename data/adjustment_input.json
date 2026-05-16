@@ -1,0 +1,4297 @@
+[
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_000129_vehicle_228_29089.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_001110_vehicle_216_21607.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_001126_vehicle_48_127.mp4",
+    "accident_place": "고속도로(자동차 전용도로)포함",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_010518_vehicle_219_21998.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_011026_vehicle_312_143.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_011027_vehicle_112_099.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020202_vehicle_219_21998.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020413_vehicle_187_022.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020515_vehicle_209_22769.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020701_vehicle_116_155.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020809_vehicle_08_001.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_020928_vehicle_249_27524.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_021008_vehicle_190_020.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_040111_vehicle_235_46077.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_070422_vehicle_257_46323.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_090121_vehicle_108_081.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_090921_vehicle_112_196.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100206_vehicle_241_53392.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100213_vehicle_30_300.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100308_vehicle_228_21979.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100727_vehicle_21_024.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100911_vehicle_201_53456.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_100927_vehicle_252_21755.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110317_vehicle_119_224.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110414_vehicle_205_53335.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110620_vehicle_213_53445.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110713_vehicle_216_53337.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110813_vehicle_260_45868.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110901_vehicle_197_077.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_110927_vehicle_149_207.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_111022_vehicle_27_017.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120213_vehicle_206_22374.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120218_vehicle_117_037.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120227_vehicle_112_237.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120310_vehicle_219_22323.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120318_vehicle_113_157.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120325_vehicle_197_003.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120406_vehicle_213_24398.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120517_vehicle_239_54693.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120608_vehicle_197_120.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120710_vehicle_116_167.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120804_vehicle_38_122.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120805_vehicle_199_093.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120815_vehicle_141_149.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_120901_vehicle_216_53671.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_121015_vehicle_36_195.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_121119_vehicle_187_016.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_121122_vehicle_124_038.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130104_vehicle_48_190.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130107_vehicle_227_29017.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130117_vehicle_141_303.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130120_vehicle_41_140.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130123_vehicle_113_315.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130124_vehicle_30_201.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130131_vehicle_39_138.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130202_vehicle_230_29051.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130209_vehicle_209_46412.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130211_vehicle_252_28029.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130219_vehicle_156_026.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130221_vehicle_226_28874.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130225_vehicle_230_53614.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130305_vehicle_202_26619.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130331_vehicle_213_53505.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130406_vehicle_239_54693.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130408_vehicle_31_107.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130412_vehicle_116_077.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130504_vehicle_118_067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130505_vehicle_116_071.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130511_vehicle_44_237.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130520_vehicle_240_28813.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130604_vehicle_216_28358.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130615_vehicle_221_26565.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130616_vehicle_214_26125.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130619_vehicle_29_332.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130626_vehicle_221_55006.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130710_vehicle_212_52656.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130714_vehicle_240_51825.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130716_vehicle_215_26611.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130718_vehicle_44_186.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130721_vehicle_248_29436.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130731_vehicle_193_005.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130819_vehicle_254_22294.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130919_vehicle_223_27927.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_130924_vehicle_200_21771.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131003_vehicle_255_29599.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131004_vehicle_229_27996.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131007_vehicle_38_097.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131009_vehicle_48_192.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131018_vehicle_197_081.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131019_vehicle_113_112.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131025_vehicle_45_225.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131102_vehicle_121_110.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131123_vehicle_130_065.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131128_vehicle_125_066.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_131219_vehicle_226_21606.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140101_vehicle_30_266.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140103_vehicle_258_27837.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140117_vehicle_38_123.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140127_vehicle_240_28954.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140130_vehicle_46_148.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140204_vehicle_46_080.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140218_vehicle_250_27688.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140222_vehicle_208_21780.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 20
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140319_vehicle_48_187.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140330_vehicle_230_55319.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140401_vehicle_120_085.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140404_vehicle_29_155.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140404_vehicle_37_079.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140405_vehicle_129_146.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140416_vehicle_217_26492.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140418_vehicle_126_166.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140419_vehicle_145_228.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140517_vehicle_200_53971.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140602_vehicle_36_154.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140606_vehicle_30_198.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140609_vehicle_40_152.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140613_vehicle_224_55460.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140617_vehicle_260_50406.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140628_vehicle_124_037.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140710_vehicle_108_100.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 20
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140801_vehicle_46_162.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140804_vehicle_112_092.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140820_vehicle_190_158.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140904_vehicle_257_51078.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140905_vehicle_40_123.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140916_vehicle_212_21599.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_140930_vehicle_112_239.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141005_vehicle_198_116.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141006_vehicle_48_205.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141019_vehicle_108_231.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141024_vehicle_46_180.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141025_vehicle_46_182.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141101_vehicle_222_50543.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141105_vehicle_113_147.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141106_vehicle_197_102.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141115_vehicle_29_176.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_141219_vehicle_142_118.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150107_vehicle_29_222.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150108_vehicle_221_22139.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150111_vehicle_141_248.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150114_vehicle_129_220.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150124_vehicle_45_229.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150202_vehicle_209_26259.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150202_vehicle_214_53773.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150204_vehicle_129_196.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150205_vehicle_118_158.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150210_vehicle_39_144.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150218_vehicle_201_54307.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150222_vehicle_237_55104.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150305_vehicle_253_29406.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150306_vehicle_47_228.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150307_vehicle_35_131.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150312_vehicle_46_149.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150317_vehicle_187_089.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150321_vehicle_108_217.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150326_vehicle_113_201.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150402_vehicle_142_073.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150408_vehicle_212_54371.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150413_vehicle_30_287.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150415_vehicle_197_108.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150417_vehicle_130_222.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150421_vehicle_141_316.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150430_vehicle_226_28720.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150502_vehicle_223_22440.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150509_vehicle_250_26817.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150515_vehicle_35_066.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150517_vehicle_37_150.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150527_vehicle_144_117.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150601_vehicle_113_139.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150606_vehicle_231_53817.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150610_vehicle_113_178.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150614_vehicle_195_192.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150621_vehicle_193_001.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150701_vehicle_142_112.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150715_vehicle_35_046.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150720_vehicle_30_295.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150731_vehicle_236_21989.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150807_vehicle_110_043.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150811_vehicle_45_215.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150819_vehicle_30_285.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150819_vehicle_30_306.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150826_vehicle_218_29498.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150830_vehicle_39_161.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150902_vehicle_48_290.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_150903_vehicle_143_131.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151001_vehicle_108_049.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151002_vehicle_257_21600.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151003_vehicle_30_297.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151021_vehicle_141_321.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151030_vehicle_203_26631.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151102_vehicle_255_21729.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151102_vehicle_44_178.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151105_vehicle_47_237.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151111_vehicle_117_146.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151114_vehicle_236_55421.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151128_vehicle_47_241.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_151130_vehicle_121_191.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160111_vehicle_208_27677.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 20
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160112_vehicle_212_22498.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160114_vehicle_246_53649.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160116_vehicle_222_29116.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160117_vehicle_240_28254.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160117_vehicle_248_53310.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160129_vehicle_201_29636.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160216_vehicle_221_22485.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160220_vehicle_234_28385.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160223_vehicle_239_22171.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160224_vehicle_233_26451.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160225_vehicle_252_29172.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160226_vehicle_110_028.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160228_vehicle_48_221.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160302_vehicle_226_27185.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160305_vehicle_207_53427.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160306_vehicle_112_181.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160310_vehicle_237_28782.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160317_vehicle_47_242.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160318_vehicle_219_54664.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160319_vehicle_222_21581.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160330_vehicle_259_22473.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160401_vehicle_212_53584.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160401_vehicle_240_21561.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160416_vehicle_214_28132.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160417_vehicle_209_26056.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160421_vehicle_148_310.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160424_vehicle_185_091.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160425_vehicle_218_27467.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160503_vehicle_217_22235.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160521_vehicle_108_237.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160522_vehicle_194_064.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160523_vehicle_127_075.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160527_vehicle_240_53253.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160527_vehicle_240_55971.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160527_vehicle_252_55851.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160607_vehicle_117_119.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160612_vehicle_212_53256.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160614_vehicle_112_113.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160626_vehicle_126_128.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160629_vehicle_46_228.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160701_vehicle_116_057.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160705_vehicle_130_049.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160706_vehicle_234_52495.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160715_vehicle_129_067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160723_vehicle_19_138.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160726_vehicle_218_26013.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160730_vehicle_145_067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160731_vehicle_197_070.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160803_vehicle_47_248.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160805_vehicle_147_144.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160808_vehicle_123_131.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160816_vehicle_130_232.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160817_vehicle_247_26894.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160820_vehicle_112_285.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160825_vehicle_244_23264.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160827_vehicle_40_164.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160902_vehicle_129_276.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160902_vehicle_246_22265.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160907_vehicle_225_29967.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160910_vehicle_241_26225.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160912_vehicle_238_27608.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160912_vehicle_241_28159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160916_vehicle_143_034.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 20
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160920_vehicle_130_216.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_160927_vehicle_39_159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161010_vehicle_145_069.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161011_vehicle_129_072.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161017_vehicle_219_28261.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161017_vehicle_246_55178.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161026_vehicle_125_149.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161101_vehicle_218_29259.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161113_vehicle_112_207.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161119_vehicle_46_383.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161209_vehicle_21_152.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161217_vehicle_117_032.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161228_vehicle_119_077.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_161231_vehicle_156_010.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170103_vehicle_46_240.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170110_vehicle_200_149.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170111_vehicle_129_279.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170111_vehicle_232_53310.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170113_vehicle_29_224.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170114_vehicle_146_099.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170116_vehicle_127_136.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170119_vehicle_260_21812.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170120_vehicle_233_22160.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170125_vehicle_217_51608.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170127_vehicle_142_157.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170129_vehicle_223_27249.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170131_vehicle_35_086.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170203_vehicle_38_075.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170208_vehicle_30_210.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170211_vehicle_216_21655.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170211_vehicle_245_53159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170212_vehicle_46_278.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170216_vehicle_30_277.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170217_vehicle_207_28603.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170222_vehicle_247_55530.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170225_vehicle_209_45264.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170304_vehicle_114_075.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170310_vehicle_31_111.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170313_vehicle_127_092.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170313_vehicle_239_21521.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170313_vehicle_241_21533.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170315_vehicle_131_084.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170318_vehicle_234_22206.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170322_vehicle_118_073.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170326_vehicle_110_047.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170329_vehicle_44_173.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170331_vehicle_216_29088.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170407_vehicle_088_001.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170413_vehicle_130_055.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170414_vehicle_112_148.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170429_vehicle_251_52464.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170430_vehicle_185_053.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170501_vehicle_125_129.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170502_vehicle_243_55884.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 60
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170504_vehicle_126_319.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170504_vehicle_127_193.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170504_vehicle_131_012.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170508_vehicle_123_173.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170513_vehicle_129_227.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170524_vehicle_123_196.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170527_vehicle_41_100.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170531_vehicle_227_54845.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170604_vehicle_257_22024.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170605_vehicle_254_52435.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170607_vehicle_253_53361.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170612_vehicle_253_27415.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170620_vehicle_204_55174.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170623_vehicle_126_100.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170627_vehicle_116_230.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170706_vehicle_205_28282.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170709_vehicle_123_206.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170713_vehicle_197_029.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170715_vehicle_45_234.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170721_vehicle_243_53312.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170725_vehicle_206_22401.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170807_vehicle_257_28495.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170808_vehicle_46_244.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170809_vehicle_29_114.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170812_vehicle_208_22435.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170812_vehicle_231_22115.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170813_vehicle_121_159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170813_vehicle_248_51915.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170813_vehicle_44_137.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170814_vehicle_231_52660.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170815_vehicle_253_21538.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170817_vehicle_213_53897.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170820_vehicle_36_199.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170825_vehicle_192_094.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170830_vehicle_185_042.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170901_vehicle_251_55879.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170906_vehicle_235_53266.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170907_vehicle_123_218.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170911_vehicle_121_081.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170913_vehicle_126_069.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170913_vehicle_243_54296.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170914_vehicle_21_168.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170923_vehicle_204_54112.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170924_vehicle_223_53183.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170925_vehicle_190_087.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170927_vehicle_113_048.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170929_vehicle_148_309.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_170929_vehicle_31_094.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171002_vehicle_248_51085.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171003_vehicle_37_097.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171005_vehicle_157_019.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171014_vehicle_44_158.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171014_vehicle_46_280.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171015_vehicle_29_341.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171017_vehicle_185_120.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171019_vehicle_123_213.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171020_vehicle_46_269.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171024_vehicle_40_200.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171031_vehicle_224_52685.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171031_vehicle_47_270.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171102_vehicle_126_323.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171105_vehicle_200_144.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171110_vehicle_204_28958.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171116_vehicle_125_026.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171116_vehicle_242_53875.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171116_vehicle_259_54428.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171118_vehicle_207_28735.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171119_vehicle_30_270.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171120_vehicle_229_53328.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171121_vehicle_201_28061.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_171124_vehicle_117_062.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180102_vehicle_40_086.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180107_vehicle_110_163.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180114_vehicle_112_184.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180116_vehicle_196_032.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180117_vehicle_232_28227.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180122_vehicle_19_088.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180123_vehicle_48_284.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180125_vehicle_112_186.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180128_vehicle_46_263.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180201_vehicle_110_051.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180211_vehicle_129_061.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180211_vehicle_219_22066.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180212_vehicle_120_114.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180215_vehicle_108_024.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180222_vehicle_148_238.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180225_vehicle_141_335.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180225_vehicle_228_29036.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180228_vehicle_191_044.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180302_vehicle_200_52154.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180303_vehicle_250_28373.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 20
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180307_vehicle_127_022.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180307_vehicle_254_55786.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180310_vehicle_201_28264.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180313_vehicle_112_073.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180316_vehicle_48_146.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180317_vehicle_203_21725.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180331_vehicle_202_53841.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180403_vehicle_190_075.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180403_vehicle_197_041.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180411_vehicle_237_52511.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180417_vehicle_192_049.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180421_vehicle_260_46588.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180427_vehicle_131_097.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180428_vehicle_225_28681.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180504_vehicle_238_55112.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180505_vehicle_207_21662.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180508_vehicle_123_021.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180508_vehicle_251_55571.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180526_vehicle_229_46326.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180527_vehicle_256_54304.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180603_vehicle_39_115.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180608_vehicle_124_114.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180613_vehicle_21_229.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180622_vehicle_250_45253.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180625_vehicle_108_193.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180627_vehicle_237_51382.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180701_vehicle_145_063.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180712_vehicle_141_242.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180713_vehicle_260_22152.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180714_vehicle_248_52678.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180728_vehicle_260_21697.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180729_vehicle_198_137.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180803_vehicle_228_25184.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180806_vehicle_221_29157.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180811_vehicle_256_51190.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180816_vehicle_129_188.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180820_vehicle_218_29241.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180820_vehicle_40_112.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180826_vehicle_117_065.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180902_vehicle_48_242.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180908_vehicle_46_306.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180910_vehicle_191_085.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180911_vehicle_251_26795.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180920_vehicle_47_308.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180923_vehicle_244_21735.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_180925_vehicle_46_271.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181004_vehicle_21_159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181007_vehicle_149_055.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181015_vehicle_118_052.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181015_vehicle_208_53559.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181020_vehicle_199_029.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181022_vehicle_123_034.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181023_vehicle_127_053.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181024_vehicle_118_137.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181031_vehicle_234_29850.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181101_vehicle_205_22196.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181101_vehicle_235_22419.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181104_vehicle_195_096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181107_vehicle_129_235.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181111_vehicle_246_26426.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181113_vehicle_233_55080.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181121_vehicle_117_045.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_181122_vehicle_227_46417.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190105_vehicle_41_182.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190110_vehicle_231_53923.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190113_vehicle_126_133.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190114_vehicle_130_073.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190115_vehicle_157_006.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190118_vehicle_38_113.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190120_vehicle_237_26002.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190204_vehicle_251_22333.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190206_vehicle_207_51987.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190212_vehicle_123_308.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190212_vehicle_312_046.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190216_vehicle_211_27943.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190223_vehicle_244_46409.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190302_vehicle_244_53300.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190304_vehicle_223_45166.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190316_vehicle_185_047.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190316_vehicle_35_121.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190327_vehicle_245_51736.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190404_vehicle_247_53884.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190405_vehicle_220_26625.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190407_vehicle_218_21931.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190410_vehicle_235_29111.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190411_vehicle_231_45782.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190418_vehicle_190_044.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190424_vehicle_116_083.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190425_vehicle_208_50213.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190428_vehicle_41_179.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190507_vehicle_192_060.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190511_vehicle_248_55799.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190516_vehicle_222_22201.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190517_vehicle_145_175.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190520_vehicle_131_183.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190520_vehicle_47_315.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190521_vehicle_313_074.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190523_vehicle_131_229.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190526_vehicle_207_51636.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190527_vehicle_197_040.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190531_vehicle_198_142.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190604_vehicle_232_52747.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190606_vehicle_129_211.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190618_vehicle_314_005.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190719_vehicle_114_050.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190719_vehicle_245_22244.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190721_vehicle_149_240.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190723_vehicle_243_53312.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190725_vehicle_44_204.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190726_vehicle_217_26778.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190728_vehicle_221_54971.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190810_vehicle_44_182.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190819_vehicle_145_141.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190823_vehicle_38_057.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190905_vehicle_119_054.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190907_vehicle_142_056.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190912_vehicle_126_148.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190913_vehicle_209_28237.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190913_vehicle_260_22167.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190927_vehicle_46_195.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_190930_vehicle_218_45456.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191003_vehicle_29_369.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191009_vehicle_125_157.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191009_vehicle_198_125.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191029_vehicle_244_53089.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191113_vehicle_129_076.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191117_vehicle_141_039.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191120_vehicle_149_092.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191122_vehicle_143_159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191123_vehicle_229_27096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191126_vehicle_124_015.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_191128_vehicle_144_299.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200122_vehicle_208_52683.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200124_vehicle_125_186.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200124_vehicle_229_51896.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200128_vehicle_117_054.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200130_vehicle_244_50425.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200131_vehicle_311_017.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200203_vehicle_311_034.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200205_vehicle_256_50708.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200207_vehicle_142_200.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200218_vehicle_311_061.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200223_vehicle_142_310.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200223_vehicle_253_55040.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200225_vehicle_125_063.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200302_vehicle_224_21834.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200310_vehicle_142_303.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200319_vehicle_312_138.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200326_vehicle_204_28949.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200329_vehicle_232_22154.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200404_vehicle_312_119.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200407_vehicle_312_118.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200409_vehicle_312_127.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 25
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200413_vehicle_240_45462.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200414_vehicle_121_028.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200415_vehicle_36_193.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200419_vehicle_112_294.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200421_vehicle_312_030.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200421_vehicle_41_193.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200422_vehicle_312_114.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200429_vehicle_44_152.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200502_vehicle_230_29974.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200504_vehicle_129_081.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200510_vehicle_189_099.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200514_vehicle_243_50236.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200517_vehicle_313_063.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200523_vehicle_125_097.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200527_vehicle_118_048.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200528_vehicle_195_056.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200602_vehicle_48_175.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200604_vehicle_200_55439.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200607_vehicle_30_347.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200608_vehicle_223_53921.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200620_vehicle_157_027.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200625_vehicle_148_324.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200626_vehicle_233_22494.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200626_vehicle_245_51595.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200629_vehicle_47_300.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200706_vehicle_250_21947.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200714_vehicle_200_28840.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200721_vehicle_119_102.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200721_vehicle_143_068.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200723_vehicle_123_283.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200729_vehicle_207_22202.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200731_vehicle_129_289.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200801_vehicle_131_056.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200805_vehicle_127_096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200809_vehicle_253_54981.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200810_vehicle_232_50852.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200810_vehicle_253_51728.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200814_vehicle_149_262.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200818_vehicle_316_087.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200818_vehicle_44_105.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200820_vehicle_245_54520.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200822_vehicle_221_28303.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200828_vehicle_204_52103.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200830_vehicle_199_043.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200902_vehicle_30_399.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200904_vehicle_210_55816.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200910_vehicle_313_040.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_200924_vehicle_119_268.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201015_vehicle_237_51447.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201017_vehicle_210_54697.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201024_vehicle_313_003.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201028_vehicle_232_29278.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201030_vehicle_116_126.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201031_vehicle_127_042.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201105_vehicle_144_077.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201108_vehicle_089_531490.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201109_vehicle_129_042.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201110_vehicle_125_174.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201117_vehicle_48_002.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201118_vehicle_131_018.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_201125_vehicle_215_51410.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210105_vehicle_192_020.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210106_vehicle_251_54286.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210112_vehicle_221_51168.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210113_vehicle_314_089.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210114_vehicle_253_50073.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210115_vehicle_45_281.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210131_vehicle_234_54950.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210204_vehicle_120_164.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210204_vehicle_238_50189.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210209_vehicle_119_350.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210210_vehicle_212_45839.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210211_vehicle_235_52389.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210222_vehicle_157_042.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210223_vehicle_148_118.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210226_vehicle_127_196.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210301_vehicle_311_088.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210305_vehicle_311_110.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210309_vehicle_312_005.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210322_vehicle_312_084.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210327_vehicle_244_53998.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210329_vehicle_217_55410.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210329_vehicle_312_097.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210402_vehicle_312_083.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210404_vehicle_108_030.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210405_vehicle_127_116.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210411_vehicle_242_28675.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210411_vehicle_314_058.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210413_vehicle_210_50897.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210413_vehicle_234_51432.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210414_vehicle_119_303.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210414_vehicle_244_50609.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210423_vehicle_246_21641.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210426_vehicle_46_340.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210429_vehicle_212_51737.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210429_vehicle_41_172.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210501_vehicle_315_040.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210506_vehicle_205_51149.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210509_vehicle_241_21890.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210513_vehicle_193_206.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210516_vehicle_313_078.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210517_vehicle_187_010.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210521_vehicle_192_088.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210521_vehicle_252_21664.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210522_vehicle_141_096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210522_vehicle_315_061.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210525_vehicle_208_28894.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210528_vehicle_213_25436.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210529_vehicle_248_50300.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210531_vehicle_145_174.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210531_vehicle_314_010.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210601_vehicle_312_007.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210607_vehicle_258_21938.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210609_vehicle_227_50374.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210610_vehicle_235_55509.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210616_vehicle_314_014.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210629_vehicle_217_46492.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210629_vehicle_315_027.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210701_vehicle_217_21650.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210702_vehicle_119_189.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210702_vehicle_208_50000.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210710_vehicle_257_28822.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210711_vehicle_205_21625.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210714_vehicle_315_075.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210717_vehicle_121_172.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210717_vehicle_198_042.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210721_vehicle_110_080.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210723_vehicle_117_074.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210724_vehicle_201_28854.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210728_vehicle_200_121.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210730_vehicle_112_278.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210809_vehicle_215_26656.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210813_vehicle_239_29362.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210818_vehicle_255_21988.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210829_vehicle_141_271.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210829_vehicle_31_099.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210901_vehicle_241_26714.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210905_vehicle_208_24173.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210910_vehicle_45_175.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210922_vehicle_200_122.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210928_vehicle_125_035.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_210929_vehicle_250_54005.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211007_vehicle_232_50507.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211015_vehicle_210_52205.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211025_vehicle_311_021.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211026_vehicle_144_301.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211026_vehicle_46_342.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211029_vehicle_213_22446.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211031_vehicle_224_22224.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211102_vehicle_238_52618.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211104_vehicle_39_101.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211112_vehicle_48_257.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211114_vehicle_147_056.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211116_vehicle_119_106.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211122_vehicle_312_082.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_211124_vehicle_116_247.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220102_vehicle_222_21572.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220105_vehicle_312_107.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220107_vehicle_250_21847.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220121_vehicle_112_128.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220124_vehicle_125_101.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220127_vehicle_144_292.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220128_vehicle_129_208.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220128_vehicle_30_413.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220129_vehicle_201_50076.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220129_vehicle_315_131.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220130_vehicle_35_067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220131_vehicle_207_55624.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220207_vehicle_126_214.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220208_vehicle_315_070.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220210_vehicle_149_240.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220216_vehicle_315_089.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220219_vehicle_246_27998.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220222_vehicle_112_133.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220222_vehicle_232_53355.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220225_vehicle_203_46107.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220228_vehicle_229_22122.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220301_vehicle_210_22315.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220301_vehicle_240_22039.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220303_vehicle_120_254.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220306_vehicle_144_040.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220308_vehicle_313_051.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220309_vehicle_147_060.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 70
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220311_vehicle_40_183.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220313_vehicle_126_091.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220313_vehicle_29_364.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220314_vehicle_215_29244.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220317_vehicle_116_234.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220320_vehicle_314_012.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220321_vehicle_116_115.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220323_vehicle_246_50335.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220324_vehicle_120_060.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220324_vehicle_41_194.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220330_vehicle_315_115.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220403_vehicle_241_50679.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220414_vehicle_314_110.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220415_vehicle_228_26885.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220422_vehicle_315_096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220424_vehicle_118_032.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220426_vehicle_246_22135.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220507_vehicle_199_067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220508_vehicle_198_084.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220510_vehicle_192_084.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220512_vehicle_116_262.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220515_vehicle_111_057.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220519_vehicle_206_55523.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220603_vehicle_250_50207.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220610_vehicle_119_122.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220612_vehicle_242_27904.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220619_vehicle_193_191.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 90
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220620_vehicle_144_223.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220625_vehicle_44_211.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220702_vehicle_44_148.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220703_vehicle_238_50381.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220706_vehicle_127_054.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220706_vehicle_45_266.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220709_vehicle_315_117.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220712_vehicle_237_27181.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220715_vehicle_145_198.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220718_vehicle_44_174.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220727_vehicle_316_062.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220728_vehicle_313_013.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 40
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220730_vehicle_214_52226.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220801_vehicle_111_104.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220803_vehicle_089_014.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220804_vehicle_312_034.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220805_vehicle_222_22074.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220813_vehicle_315_060.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220815_vehicle_221_28116.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220817_vehicle_208_28571.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220817_vehicle_218_46005.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220818_vehicle_147_065.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220822_vehicle_239_22221.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220826_vehicle_212_29396.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 50
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220827_vehicle_256_50486.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220829_vehicle_216_50096.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220902_vehicle_223_22464.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220905_vehicle_118_084.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220908_vehicle_108_041.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220917_vehicle_244_28751.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220920_vehicle_230_27587.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220920_vehicle_48_259.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220921_vehicle_116_271.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220929_vehicle_147_072.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_220930_vehicle_111_028.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221002_vehicle_112_376.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221005_vehicle_245_53305.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221008_vehicle_45_250.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221010_vehicle_116_242.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221016_vehicle_250_28275.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221019_vehicle_224_21834.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221026_vehicle_130_085.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221105_vehicle_212_50515.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221109_vehicle_239_29220.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221110_vehicle_256_28934.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221112_vehicle_121_174.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221118_vehicle_250_50979.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_1_221128_vehicle_141_222.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_110225_vehicle_237_54650.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_110426_vehicle_142_240.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_110728_vehicle_27_105.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120217_vehicle_149_177.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120223_vehicle_198_177.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120522_vehicle_113_193.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120602_vehicle_230_54667.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120728_vehicle_29_322.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_120929_vehicle_208_53972.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_121029_vehicle_29_267.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_121105_vehicle_19_157.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_121117_vehicle_21_294.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130102_vehicle_198_177.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130326_vehicle_212_55195.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130327_vehicle_112_140.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130329_vehicle_223_54393.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130603_vehicle_121_125.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130609_vehicle_47_218.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130616_vehicle_39_135.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_130930_vehicle_247_22017.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140319_vehicle_231_21547.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140327_vehicle_112_159.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140331_vehicle_141_162.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140627_vehicle_088_198.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 80
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140712_vehicle_223_52067.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140805_vehicle_246_53359.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140914_vehicle_21_297.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_140922_vehicle_229_53453.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_141108_vehicle_35_071.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150210_vehicle_113_195.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150323_vehicle_250_55921.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150410_vehicle_195_105.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150412_vehicle_204_50150.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150718_vehicle_224_50882.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_150830_vehicle_35_129.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_151025_vehicle_37_101.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_151027_vehicle_123_167.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_160214_vehicle_201_55648.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 0
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_160309_vehicle_231_50504.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_160422_vehicle_236_53505.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_160718_vehicle_39_133.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 100
+  },
+  {
+    "video_path": "/Users/hansalang/Downloads/2026-1-CV/2026-1-semester-CV-project/data/VS_차대차_영상_직선도로/bb_3_190916_vehicle_311_008.mp4",
+    "accident_place": "직선 도로",
+    "true_ratio_a": 30
+  }
+]

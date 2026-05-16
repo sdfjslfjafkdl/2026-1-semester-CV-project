@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+
+# 데이터 (영상/라벨 원본)
+data/VS_*/
+data/VL_*/
+
+# 모델 가중치
+*.pth
+*.joblib
+
+# 학습/추론 출력물
+outputs/
+classification/video_classification_outputs/
+detect/detection_outputs/
