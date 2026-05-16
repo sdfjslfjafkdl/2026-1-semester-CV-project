@@ -9,6 +9,9 @@ import sys
 import tempfile
 from pathlib import Path
 
+from dotenv import load_dotenv
+load_dotenv(Path(__file__).resolve().parent / ".env")
+
 import cv2
 import gradio as gr
 
@@ -16,7 +19,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(PROJECT_ROOT / "src"))
 
 from accident_liability.perception.detector import FasterRCNNDetector
-from accident_liability.perception.tracker import IoUTracker, tracks_from_objects
+
 from accident_liability.pipeline.service import LiabilityPipeline
 from accident_liability.rules.adjustment import AdjustmentModel
 from accident_liability.rules.base_ratio import BaseRatioLookup
@@ -66,7 +69,10 @@ def load_models(device: str = "cpu") -> dict:
     if DETECTOR_WEIGHTS.exists():
         print("[모델] 디텍터 로드 중...")
         models["detector"] = FasterRCNNDetector(
-            weights_path=DETECTOR_WEIGHTS, score_threshold=0.5, device=device
+            weights_path=DETECTOR_WEIGHTS,
+            score_threshold=0.5,
+            device=device,
+            allowed_labels={"vehicle", "two-wheeled-vehicle", "bike"},
         )
         print("[모델] 디텍터 OK")
     else:
@@ -84,18 +90,22 @@ def load_models(device: str = "cpu") -> dict:
 
 # ── 영상 주석 처리 ─────────────────────────────────────────────────
 
-def _box_area(bbox: tuple) -> float:
-    x1, y1, x2, y2 = bbox
-    return max(0.0, x2 - x1) * max(0.0, y2 - y1)
-
-
-def _assign_ab(tracks) -> dict[int, str]:
-    avg_area = {
-        t.track_id: sum(_box_area(o.bbox_xyxy) for o in t.observations) / max(len(t.observations), 1)
-        for t in tracks
-    }
-    ranked = sorted(avg_area.items(), key=lambda x: x[1], reverse=True)
-    return {tid: actor for (tid, _), actor in zip(ranked[:2], ["A", "B"])}
+def convert_to_h264(video_path: str | None) -> str | None:
+    """업로드된 영상을 H.264로 변환 (브라우저 재생 보장)."""
+    if video_path is None:
+        return None
+    import subprocess
+    vp = Path(video_path)
+    out = vp.with_name(vp.stem + "_h264.mp4")
+    if out.exists():
+        return str(out)
+    result = subprocess.run(
+        ["ffmpeg", "-y", "-i", str(vp),
+         "-vcodec", "libx264", "-preset", "fast", "-crf", "23",
+         "-acodec", "aac", "-movflags", "faststart", str(out)],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+    )
+    return str(out) if result.returncode == 0 else video_path
 
 
 def create_annotated_video(video_path: str, detector: FasterRCNNDetector | None) -> str | None:
@@ -113,26 +123,15 @@ def create_annotated_video(video_path: str, detector: FasterRCNNDetector | None)
     cap.release()
 
     detections_by_frame = detector.detect_video(vp)
-    tracker = IoUTracker(iou_threshold=0.3, max_missed=5, min_track_length=3)
-    tracked  = tracker.track(detections_by_frame)
-    tracks   = tracks_from_objects(tracked)
-    ab_map   = _assign_ab(tracks)
 
-    frame_anns: dict[int, list] = {}
-    for obj in tracked:
-        actor = ab_map.get(obj.track_id)
-        if actor:
-            frame_anns.setdefault(obj.frame_index, []).append(
-                (obj.bbox_xyxy, actor, obj.score)
-            )
+    raw_tmp = tempfile.NamedTemporaryFile(suffix=".avi", delete=False)
+    raw_path = raw_tmp.name
+    raw_tmp.close()
 
-    tmp = tempfile.NamedTemporaryFile(suffix=".mp4", delete=False)
-    out_path = tmp.name
-    tmp.close()
-
-    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-    writer = cv2.VideoWriter(out_path, fourcc, fps, (w, h))
-    colors = {"A": (0, 60, 255), "B": (255, 80, 0)}  # BGR
+    fourcc = cv2.VideoWriter_fourcc(*"MJPG")
+    writer = cv2.VideoWriter(raw_path, fourcc, fps, (w, h))
+    if not writer.isOpened():
+        return None
 
     cap = cv2.VideoCapture(str(vp))
     fi  = 0
@@ -140,13 +139,12 @@ def create_annotated_video(video_path: str, detector: FasterRCNNDetector | None)
         ok, frame = cap.read()
         if not ok:
             break
-        for (x1, y1, x2, y2), actor, score in frame_anns.get(fi, []):
-            x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
-            color = colors[actor]
-            cv2.rectangle(frame, (x1, y1), (x2, y2), color, 2)
-            label = f"{actor}  {score:.2f}"
+        for det in detections_by_frame[fi] if fi < len(detections_by_frame) else []:
+            x1, y1, x2, y2 = (int(v) for v in det.bbox_xyxy)
+            cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 200, 50), 2)
+            label = f"{det.label} {det.score:.2f}"
             (tw, th), _ = cv2.getTextSize(label, cv2.FONT_HERSHEY_SIMPLEX, 0.65, 2)
-            cv2.rectangle(frame, (x1, y1 - th - 10), (x1 + tw + 6, y1), color, -1)
+            cv2.rectangle(frame, (x1, y1 - th - 10), (x1 + tw + 6, y1), (0, 200, 50), -1)
             cv2.putText(frame, label, (x1 + 3, y1 - 5),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.65, (255, 255, 255), 2)
         writer.write(frame)
@@ -154,7 +152,20 @@ def create_annotated_video(video_path: str, detector: FasterRCNNDetector | None)
 
     cap.release()
     writer.release()
-    return out_path
+
+    # ffmpeg로 H.264 재인코딩 → 브라우저 재생 보장
+    import subprocess
+    out_tmp = tempfile.NamedTemporaryFile(suffix=".mp4", delete=False)
+    out_path = out_tmp.name
+    out_tmp.close()
+    result = subprocess.run(
+        ["ffmpeg", "-y", "-i", raw_path,
+         "-vcodec", "libx264", "-preset", "fast", "-crf", "23",
+         "-an", "-movflags", "faststart", out_path],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+    )
+    os.remove(raw_path)
+    return out_path if result.returncode == 0 else None
 
 
 # ── LLM 보고서 생성 ────────────────────────────────────────────────
@@ -258,13 +269,7 @@ def analyze(video_path, statement, accident_place, groq_api_key, models):
 # ── Gradio UI ──────────────────────────────────────────────────────
 
 def build_ui(models: dict):
-    theme = gr.themes.Soft(
-        primary_hue="blue",
-        secondary_hue="slate",
-        font=gr.themes.GoogleFont("Noto Sans KR"),
-    )
-
-    with gr.Blocks(theme=theme, title="교통사고 과실비율 분석") as demo:
+    with gr.Blocks(title="교통사고 과실비율 분석") as demo:
 
         gr.Markdown("""
 # 🚗 교통사고 과실비율 자동 분석 시스템
@@ -304,7 +309,7 @@ def build_ui(models: dict):
                 gr.Markdown("### 📤 분석 결과")
 
                 video_output = gr.Video(
-                    label="객체 탐지 결과 (A / B 차량)",
+                    label="객체 탐지 결과",
                     height=260,
                 )
 
@@ -312,6 +317,12 @@ def build_ui(models: dict):
                     label="사고 분석 보고서",
                     value="분석 결과가 여기에 표시됩니다.",
                 )
+
+        video_input.upload(
+            fn=convert_to_h264,
+            inputs=video_input,
+            outputs=video_input,
+        )
 
         analyze_btn.click(
             fn=lambda vp, st, ap, key: analyze(vp, st, ap, key, models),
@@ -340,4 +351,16 @@ if __name__ == "__main__":
 
     models = load_models(device=args.device)
     demo   = build_ui(models)
-    demo.launch(share=args.share, server_name="0.0.0.0", server_port=7860)
+
+    theme = gr.themes.Soft(
+        primary_hue="blue",
+        secondary_hue="slate",
+        font=gr.themes.GoogleFont("Noto Sans KR"),
+    )
+    demo.launch(
+        share=args.share,
+        server_name="0.0.0.0",
+        server_port=7860,
+        inbrowser=False,
+        theme=theme,
+    )
