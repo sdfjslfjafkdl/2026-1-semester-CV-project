@@ -73,7 +73,7 @@ apt-get update && apt-get install -y ffmpeg
 자연어 보고서 생성에는 [Groq API key](https://console.groq.com)가 필요합니다 (무료).
 
 ```bash
-echo "GROQ_API_KEY=gsk_여기에키" > .env
+echo "GROQ_API_KEY=your_api_key" > .env
 ```
 
 ## 앱 실행
@@ -148,21 +148,3 @@ python scripts/run_case.py \
 - `--classifier_weights` 지정 시 영상에서 anchor (사고 장소 특징, A/B 진행 정보)를 자동 예측
 - 미지정 시 `--accident_place_feature`, `--vehicle_a_progress_info`, `--vehicle_b_progress_info` 를 수동 입력해야 함
 - `--use_llm` 플래그로 진술을 LLM으로 파싱하여 위반사항을 추출 (`GROQ_API_KEY` 필요)
-
-## 데이터 포맷
-
-### Base Ratio CSV (`data/lookup/base_ratio_table.csv`)
-
-```csv
-accident_place,accident_place_feature,vehicle_a_progress_info,vehicle_b_progress_info,ratio_a,ratio_b,ratio_class
-사거리교차로(신호등 없음),동일폭 도로,오른쪽에서 직진,왼쪽에서 직진,40,60,21
-```
-
-### Adjustment Training CSV (`data/adjustment_input.csv`)
-
-```csv
-case_id,base_ratio_a,true_ratio_a,entry_order,first_entry_strength,first_entry_conf,A_no_deceleration,A_no_deceleration_strength,A_no_deceleration_conf,B_no_deceleration,B_no_deceleration_strength,B_no_deceleration_conf,A_evasive_action,A_evasive_action_strength,A_evasive_action_conf,B_evasive_action,B_evasive_action_strength,B_evasive_action_conf
-case-001,40,30,A_first,strong,0.9,false,,0,true,medium,0.7,false,,0,true,weak,0.55
-```
-
-학습 타깃: `true_ratio_a - base_ratio_a`
